@@ -1,7 +1,7 @@
 # Welcome to your Lovable project
 
 <p align="center">
-  <img src="public/ContextShield AI.jpg" alt="SaveEvac.jpeg" width="720" />
+  <img src="SaveEvac.jpeg" alt="SaveEvac.jpeg" width="720" />
 </p>
 ## Build with Lovable
 
