@@ -25,7 +25,7 @@ npm run dev
 ## Project links
 
 - **Live demo:** [Live](https://safe-passage-lab.lovable.appa/)
-- **GitHub:** https://github.com/s333s/SaveEvac
+- **GitHub:** https://github.com/s333s/SafeEvac
 - **Youtube vedio:** [YouTube](https://youtu.be/F49WfV92zNs).
 
 ## Built with
