@@ -1,7 +1,8 @@
 # Welcome to your Lovable project
 
-This project was built with [Lovable](https://lovable.dev).
-
+<p align="center">
+  <img src="public/ContextShield AI.jpg" alt="SaveEvac.jpeg" width="720" />
+</p>
 ## Build with Lovable
 
 Open your project in the [Lovable editor](https://lovable.dev) and keep building.
@@ -20,6 +21,12 @@ cd <repository-name>
 npm i
 npm run dev
 ```
+
+## Project links
+
+- **Live demo:** [Live](https://safe-passage-lab.lovable.appa/)
+- **GitHub:** https://github.com/s333s/SaveEvac
+- **Youtube vedio:** [YouTube](https://youtu.be/F49WfV92zNs).
 
 ## Built with
 
