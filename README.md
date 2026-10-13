@@ -16,9 +16,8 @@ Open your project in the [Lovable editor](https://lovable.dev) and keep building
 Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 ```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+git clone https://github.com/s333s/SafeEvac
+cd SafeEvac
 npm run dev
 ```
 
